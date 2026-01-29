@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "337047631060",
+    "project_id": "appchat-d78d4",
+    "storage_bucket": "appchat-d78d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337047631060:android:93e9f36b7b96afe79ab741",
+        "android_client_info": {
+          "package_name": "com.cds.callrecording"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337047631060-7ih29j5a7fu46gb9reukidmu68pq882h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuX7B1xcK-gpW9gfxu6uPpo-pboCN63E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337047631060-7ih29j5a7fu46gb9reukidmu68pq882h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337047631060:android:4ed3ef3d8c5f2b6b9ab741",
+        "android_client_info": {
+          "package_name": "com.chatroom.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337047631060-9i97v1v0o7k5iuhdt95o582127k6jdki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatroom.googlemaps",
+            "certificate_hash": "ed0b90ad15f5fbdd665343a6295e1a37d9d75ad5"
+          }
+        },
+        {
+          "client_id": "337047631060-7ih29j5a7fu46gb9reukidmu68pq882h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuX7B1xcK-gpW9gfxu6uPpo-pboCN63E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337047631060-7ih29j5a7fu46gb9reukidmu68pq882h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337047631060:android:01db58e5aa2cef199ab741",
+        "android_client_info": {
+          "package_name": "com.pmc_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337047631060-b4p3q8ttu8163plhdf8776q2s4ai79v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pmc_location",
+            "certificate_hash": "ed0b90ad15f5fbdd665343a6295e1a37d9d75ad5"
+          }
+        },
+        {
+          "client_id": "337047631060-7ih29j5a7fu46gb9reukidmu68pq882h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHuX7B1xcK-gpW9gfxu6uPpo-pboCN63E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337047631060-7ih29j5a7fu46gb9reukidmu68pq882h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
