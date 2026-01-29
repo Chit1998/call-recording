@@ -126,7 +126,7 @@ public class NotificationUtils {
 
 //            @SuppressLint("FullScreenIntentPolicy")
 //            Notification.Builder builder1 = new Notification.Builder(context, channelId)
-//                    .setSmallIcon(R.mipmap.ic_launcher_round)
+//                    .setSmallIcon(R.mipmap.ic_launch_round)
 //                    .setOngoing(true)
 //                    .setContentTitle(contactName)
 //                    .setContentIntent(activity)

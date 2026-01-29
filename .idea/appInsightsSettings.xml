@@ -8,11 +8,7 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-<<<<<<< HEAD
                   <option name="appId" value="com.allen.allenPlusOverseas" />
-=======
-                  <option name="appId" value="com.huaweihealth.Huaweihealth.Suman" />
->>>>>>> e44ca076554e4ff8b8d60c7c7c59c8f65e979b2b
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
@@ -26,10 +22,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.cds.callrecording" />
+                  <option name="mobileSdkAppId" value="1:337047631060:android:93e9f36b7b96afe79ab741" />
+                  <option name="projectId" value="appchat-d78d4" />
+                  <option name="projectNumber" value="337047631060" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

@@ -13,7 +13,6 @@ import android.graphics.Rect;
 import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
-import android.os.Parcelable;
 import android.telecom.Call;
 import android.telecom.InCallService;
 import android.telecom.PhoneAccountHandle;
@@ -21,14 +20,10 @@ import android.telecom.TelecomManager;
 import android.telephony.TelephonyManager;
 import android.text.TextUtils;
 import android.view.Gravity;
-import android.view.View;
 import android.view.WindowManager;
-import android.widget.LinearLayout;
 
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
-
-import com.cds.callrecording.R;
 
 import java.util.Arrays;
 import java.util.List;
