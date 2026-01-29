@@ -8,7 +8,11 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
+<<<<<<< HEAD
                   <option name="appId" value="com.allen.allenPlusOverseas" />
+=======
+                  <option name="appId" value="com.huaweihealth.Huaweihealth.Suman" />
+>>>>>>> e44ca076554e4ff8b8d60c7c7c59c8f65e979b2b
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
